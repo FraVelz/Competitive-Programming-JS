@@ -1,4 +1,4 @@
-# Programación competitiva
+# Programación competitiva (JS, TS)
 
 Repositorio de ejercicios resueltos en **JavaScript** y migrados a **TypeScript** para practicar algoritmos y estructuras de datos.
 
@@ -23,5 +23,10 @@ Convención de nombres de archivo: `<id>.<Nombre_Del_Problema>.[js|ts]` (ej.: `3
 - **LeetCode** — lista por tema (strings): [leetcode.com/problem-list/string/](https://leetcode.com/problem-list/string/)
 
 ## Información
+
+Perfiles:
+
+- [omegaup.com/profile/fravelz/](https://omegaup.com/profile/Fravelz/)
+- [leetcode.com/u/fravelz/](https://leetcode.com/u/Fravelz/)
 
 **Autor:** Fravelz
