@@ -9,11 +9,11 @@ Repositorio de ejercicios resueltos en **JavaScript** para practicar algoritmos 
 
 ## Estructura
 
-| Carpeta      | Contenido                                                                      |
-| ------------ | ------------------------------------------------------------------------------ |
-| `leetcode/`  | Problemas de [LeetCode](https://leetcode.com/)                                 |
-| `omegaup/`   | Problemas de [omegaUp](https://omegaup.com/)                                   |
-| `template.js`| Plantilla con `readline` para entrada estándar (estilo juez / varios casos)   |
+| Carpeta       | Contenido                                                                   |
+| ------------- | --------------------------------------------------------------------------- |
+| `leetcode/`   | Problemas de [LeetCode](https://leetcode.com/)                              |
+| `omegaup/`    | Problemas de [omegaUp](https://omegaup.com/)                                |
+| `template.js` | Plantilla con `readline` para entrada estándar (estilo juez / varios casos) |
 
 Convención de nombres: `<id>.<Nombre_Del_Problema>.[js|ts]` (por ejemplo `3110.Score_of_a_String.js`).
 
