@@ -1,21 +1,21 @@
-# Programación competitiva (JS, TS)
+# Programación competitiva (JavaScript)
 
-Repositorio de ejercicios resueltos en **JavaScript** y migrados a **TypeScript** para practicar algoritmos y estructuras de datos.
+Repositorio de ejercicios resueltos en **JavaScript** para practicar algoritmos y estructuras de datos. Opcionalmente puedes añadir variantes en **TypeScript** (`.ts`) junto a la solución cuando convenga tipar o reutilizar código.
 
 ## Flujo de trabajo
 
-1. Resolver el problema en JS (`*/js/`).
-2. Pasar la solución a TS (`*/ts/`) cuando tenga sentido tipar o reutilizar código.
+1. Resolver el problema en JS dentro de `leetcode/` u `omegaup/`.
+2. Si aplica, duplicar o migrar la lógica a un archivo `.ts` en la misma carpeta.
 
 ## Estructura
 
-| Carpeta                      | Contenido                                             |
-| ---------------------------- | ----------------------------------------------------- |
-| `leetcode/js`, `leetcode/ts` | Problemas de [LeetCode](https://leetcode.com/)        |
-| `omegaup/js`, `omegaup/ts`   | Problemas de [omegaUp](https://omegaup.com/)          |
-| `problemas1/`                | Plantillas y material auxiliar (p. ej. `template.js`) |
+| Carpeta      | Contenido                                                                      |
+| ------------ | ------------------------------------------------------------------------------ |
+| `leetcode/`  | Problemas de [LeetCode](https://leetcode.com/)                                 |
+| `omegaup/`   | Problemas de [omegaUp](https://omegaup.com/)                                   |
+| `template.js`| Plantilla con `readline` para entrada estándar (estilo juez / varios casos)   |
 
-Convención de nombres de archivo: `<id>.<Nombre_Del_Problema>.[js|ts]` (ej.: `3110.Score_of_a_String.ts`).
+Convención de nombres: `<id>.<Nombre_Del_Problema>.[js|ts]` (por ejemplo `3110.Score_of_a_String.js`).
 
 ## Enlaces útiles
 
