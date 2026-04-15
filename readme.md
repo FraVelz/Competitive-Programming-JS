@@ -1,11 +1,11 @@
-# Programación competitiva (JavaScript)
+# Programación Competitiva (JavaScript)
 
 Repositorio de ejercicios resueltos en **JavaScript** para practicar algoritmos, lógica de programación y estructuras de datos.
 
 ## Flujo de trabajo (propio)
 
 1. Resuelvo 1 problema de leetcode.
-2. resuelvo los problemas posibles en el plazo de tiempo restante.
+2. resuelvo los problemas posibles en el plazo de tiempo restante en omegaup.
 
 ## Estructura
 
@@ -19,7 +19,7 @@ Convención de nombres: `<id>.<Nombre_Del_Problema>.[js]` (por ejemplo `3110.Sco
 
 ## Enlaces útiles
 
-- **omegaUp** — colecciones y problemas: [omegaup.com/problem/collection/](https://omegaup.com/problem/collection/)
+- **OmegaUp** — colecciones y problemas: [omegaup.com/problem/collection/](https://omegaup.com/problem/collection/)
 
 - **LeetCode** — lista de problemas: [leetcode.com/problemset/](https://leetcode.com/problemset/)
 
