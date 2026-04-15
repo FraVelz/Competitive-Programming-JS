@@ -1,11 +1,11 @@
 # Programación competitiva (JavaScript)
 
-Repositorio de ejercicios resueltos en **JavaScript** para practicar algoritmos y estructuras de datos. Opcionalmente puedes añadir variantes en **TypeScript** (`.ts`) junto a la solución cuando convenga tipar o reutilizar código.
+Repositorio de ejercicios resueltos en **JavaScript** para practicar algoritmos, lógica de programación y estructuras de datos.
 
-## Flujo de trabajo
+## Flujo de trabajo (propio)
 
-1. Resolver el problema en JS dentro de `leetcode/` u `omegaup/`.
-2. Si aplica, duplicar o migrar la lógica a un archivo `.ts` en la misma carpeta.
+1. Resuelvo 1 problema de leetcode.
+2. resuelvo los problemas posibles en el plazo de tiempo restante.
 
 ## Estructura
 
@@ -15,12 +15,13 @@ Repositorio de ejercicios resueltos en **JavaScript** para practicar algoritmos 
 | `omegaup/`    | Problemas de [omegaUp](https://omegaup.com/)                                |
 | `template.js` | Plantilla con `readline` para entrada estándar (estilo juez / varios casos) |
 
-Convención de nombres: `<id>.<Nombre_Del_Problema>.[js|ts]` (por ejemplo `3110.Score_of_a_String.js`).
+Convención de nombres: `<id>.<Nombre_Del_Problema>.[js]` (por ejemplo `3110.Score_of_a_String.js`).
 
 ## Enlaces útiles
 
 - **omegaUp** — colecciones y problemas: [omegaup.com/problem/collection/](https://omegaup.com/problem/collection/)
-- **LeetCode** — lista por tema (strings): [leetcode.com/problem-list/string/](https://leetcode.com/problem-list/string/)
+
+- **LeetCode** — lista de problemas: [leetcode.com/problemset/](https://leetcode.com/problemset/)
 
 ## Información
 
